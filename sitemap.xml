@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://novasphereai.netlify.app/</loc></url>
-  <url><loc>https://novasphereai.netlify.app/about.html</loc></url>
-  <url><loc>https://novasphereai.netlify.app/privacy.html</loc></url>
-  <url><loc>https://novasphereai.netlify.app/terms.html</loc></url>
-  <url><loc>https://novasphereai.netlify.app/contact.html</loc></url>
-  <url><loc>https://novasphereai.netlify.app/disclaimer.html</loc></url>
+  <url><loc>https://novasphereai.vercel.app/</loc></url>
+  <url><loc>https://novasphereai.vercel.app/about.html</loc></url>
+  <url><loc>https://novasphereai.vercel.app/features.html</loc></url>
+  <url><loc>https://novasphereai.vercel.app/how-to-use.html</loc></url>
+  <url><loc>https://novasphereai.vercel.app/guides.html</loc></url>
+  <url><loc>https://novasphereai.vercel.app/guide-writing-better-prompts.html</loc></url>
+  <url><loc>https://novasphereai.vercel.app/guide-ai-for-students.html</loc></url>
+  <url><loc>https://novasphereai.vercel.app/guide-verify-ai-output.html</loc></url>
+  <url><loc>https://novasphereai.vercel.app/privacy.html</loc></url>
+  <url><loc>https://novasphereai.vercel.app/terms.html</loc></url>
+  <url><loc>https://novasphereai.vercel.app/contact.html</loc></url>
+  <url><loc>https://novasphereai.vercel.app/disclaimer.html</loc></url>
 </urlset>
