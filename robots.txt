@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://novasphereai.netlify.app/sitemap.xml
