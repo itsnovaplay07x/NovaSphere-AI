@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://novasphereai.vercel.app/sitemap.xml
